@@ -1,6 +1,6 @@
 # 🏨Hotel-Sales-Performance-Analysis
 
-Live Dashboard:📸 [https://github.com/Sophie256A/Hotel-Sales-Performance-Analysis/blob/main/Hotel%20Dashboard%20PDF.png] 
+Live Dashboard:📸 [https://github.com/Sophie256A/Hotel-Sales-Performance-Analysis/blob/main/Hotel%20Dashboard%20PDF.png]  
 Tool:🛠️ Power BI, Excel, Power Query, DAX
 
 ## 📌Project Overview

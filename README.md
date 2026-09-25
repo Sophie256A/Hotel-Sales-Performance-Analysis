@@ -1,6 +1,7 @@
 # 🏨Hotel-Sales-Performance-Analysis
 
-Live Dashboard:📸[https://github.com/Sophie256A/Hotel-Sales-Performance-Analysis/blob/main/Hotel%20Dashboard%20PDF.png]| Tool:🛠️ Power BI, Excel, Power Query, DAX
+Live Dashboard:📸 [https://github.com/Sophie256A/Hotel-Sales-Performance-Analysis/blob/main/Hotel%20Dashboard%20PDF.png] 
+Tool:🛠️ Power BI, Excel, Power Query, DAX
 
 ## 📌Project Overview
 This is an interactive Power BI dashboard analyzing hotel sales performance for 2024. 
